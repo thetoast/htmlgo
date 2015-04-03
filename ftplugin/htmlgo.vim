@@ -1,1 +1,4 @@
-source $vimruntime/ftplugin/html.vim
+" Maintainer:  	wuranbo <wuranbo@gmail.com>
+" URL:		      http://github.com/wuranbo/htmlgo.vim
+
+" setlocal iskeyword+=-
